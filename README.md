@@ -1,6 +1,6 @@
 # Mini-Crypto-Trading-Bot
 This is a very small trading bot that I created just to start learning the basics of applying technical analysis using Python 
-and understanding the functions in the ta library
+and understanding the functions in the **ta** library
 
 ## **Technical Analysis**<br />
 
